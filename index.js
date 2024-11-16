@@ -25,10 +25,10 @@ console.log(`Dice image updated to: dice${randomNumber2}.png`);
 
 // compare the random dice rolls of Player 1 and Player 2 to determine the winner
 if(randomNumber1>randomNumber2){
-    document.querySelector("h1").innerHTML="Player 1 Wins!!!";
+    document.querySelector("h1").innerHTML="Player 1 Wins!";
 } else if(randomNumber1<randomNumber2){
-    document.querySelector("h1").innerHTML="Player 2 Wins!!!"
+    document.querySelector("h1").innerHTML="Player 2 Wins!"
 
 }else{
-    document.querySelector("h1").innerHTML="Draw!!"
+    document.querySelector("h1").innerHTML="Draw!"
 }
