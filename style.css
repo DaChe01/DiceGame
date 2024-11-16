@@ -29,7 +29,7 @@ h1{
     margin: 20px;
     font-family: 'Lobster', cursive, sans-serif;
     text-shadow: 6px 0 #16224a;
-    font-size: 6.5rem;
+    font-size: 4rem;
     color: #000080;
     
 }
@@ -37,7 +37,7 @@ h1{
 p{
     font-family: 'Merriweather', cursive, sans-serif;
     font-style: italic;
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #2E2E2E;
     
 }
@@ -48,7 +48,7 @@ img{
 
 footer{
     font-family: 'Indie Flower', cursive, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 5%;
     color: #708090;
     text-align: center;
