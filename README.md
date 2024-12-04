@@ -11,3 +11,5 @@ The game generates random dice rolls for two players and displays the winner or 
 •	CSS: Styling and layout.
 •	JavaScript: Adding game logic and interactivity.
 
+Check Out: https://dache01.github.io/DiceGame/
+
